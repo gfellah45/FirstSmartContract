@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"src/_erc20.sol": "HelloWorld"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"src/_erc20.sol": {
+			"keccak256": "0x51f6255403164d36592b6e56daf6c65bd9c6ea9e2904b2947768d94497a77a9e",
+			"urls": [
+				"bzz-raw://fa0bf55c8838686b716d7631de742305fc8fe1265443ca4ae7286f2cfa721e36",
+				"dweb:/ipfs/QmXcZxVqUtz9JPkKzfMR4fMC3hEnPrJNRKrZ6q5cKsNLAK"
+			]
+		}
+	},
+	"version": 1
+}
