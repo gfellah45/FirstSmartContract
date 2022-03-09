@@ -1,0 +1,3 @@
+# FirstSmartContract
+
+deployed contract address: 0xfde5400e5c7c04522da10b799924c9d2a11cc24d60a532017caf086f7f8cf760
